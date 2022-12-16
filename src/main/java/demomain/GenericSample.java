@@ -8,6 +8,11 @@ public class GenericSample {
 	public void gSample()
 	{
 		System.out.println("this is gsample");
+		
+		
+		
+		System.out.println("this is g2sample");
+		
 	}
 
 }
