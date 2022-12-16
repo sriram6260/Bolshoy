@@ -8,6 +8,7 @@ public class Sample {
 	public void sampleTest()
 	{
 		System.out.println("this is for sample");
+		
 	}
 
 }
