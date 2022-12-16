@@ -12,6 +12,7 @@ public class GenericSample {
 		
 		System.out.println("this is gs45ample");
 		System.out.println("jnnj");
+		System.out.println("dfdwfw");
 		
 		
 	}
