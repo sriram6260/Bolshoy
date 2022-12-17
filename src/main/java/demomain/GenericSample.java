@@ -9,12 +9,9 @@ public class GenericSample {
 	{
 		System.out.println("this is gsample");
 		
-		
 		System.out.println("this is gs45ample");
 		System.out.println("jnnj");
 	
-		
-		
 	}
 
 }
